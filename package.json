@@ -7,6 +7,9 @@
     "build": "craco build",
     "test": "craco test"
   },
+    "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "@auth0/auth0-react": "^1.6.0",
     "@craco/craco": "^6.2.0",
